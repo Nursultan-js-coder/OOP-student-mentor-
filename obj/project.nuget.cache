@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ef+hLPfa+St1zmlJ4XrZGVTkxkKvolkcpkJoLujpnhngrVL+YFFNK0s9AJ4Hqg4QS8Z93jOyN6mMHBmsUl4cxQ==",
+  "success": true,
+  "projectFilePath": "/Users/lukmnovnurs/OOP/labs/tasks/lab-7/task_4/task_4.csproj",
+  "expectedPackageFiles": [
+    "/Users/lukmnovnurs/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
